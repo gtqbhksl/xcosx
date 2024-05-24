@@ -49,3 +49,7 @@ webshell检测采用正则+神经网络识别结合的方式，神经网络模�
 其次，弱口令检测功能目前仅支持有限的几种服务组件。
 
 再者，Webshell检测神经网络模型的训练和参数调优，寻找最优的网络结构和超参数设置，以提高对新型和变种Webshell的检测能力。
+
+# 论文&答辩ppt
+
+毕业论文与答辩PPT见：[https://github.com/gtqbhksl/xcosx_paper](https://github.com/gtqbhksl/xcosx_paper)
